@@ -16,7 +16,7 @@ Install pip packages with:
 
 # Change OLLAMA_MODEL value
 
-Assign <MODEL_NAME> value to OLLAMA_MODEL in frontend-streamlit.py
+Assign <MODEL_NAME> value to OLLAMA_MODEL in app.py
 
 # Run your application
 
