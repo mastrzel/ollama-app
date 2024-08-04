@@ -22,4 +22,4 @@ Assign <MODEL_NAME> value to OLLAMA_MODEL in frontend-streamlit.py
 
 Run the application with
 
-```streamlit run frontend-streamlit.py```
+```streamlit run app.py```
